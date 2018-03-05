@@ -63,6 +63,7 @@ ls -l /usr/local/bin
 | `brew doctor` | show you any problem with your brew installation |
 | `brew missing` | show you any problem with your brew installation |
 | `brew list -1` | list of all installed packages |
+| `brew services list` | list of all installed services |
 | `brew list -1 `|` xargs brew rm` | remove all packages together but keep homebrew |
 | `brew search ...` | search for a package |
 | `brew tap` | list tapped repositories |

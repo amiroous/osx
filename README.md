@@ -25,6 +25,7 @@
 | `hostname` | prints the system's host name |
 | `which <executable>` | identify the location of executable |
 | `where <executable>` | identify the location of executable |
+| `while true; do <command>; sleep <interval_in_sec>; done` | Repeat a command every x interval of time in terminal|
 
 
 ## [Brew](https://docs.brew.sh/FAQ.html)
